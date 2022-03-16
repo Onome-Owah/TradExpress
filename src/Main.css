@@ -1,0 +1,97 @@
+@media (min-width:320px) {
+    .home{
+        background :transparent linear-gradient(124deg, #7C1FBF 0%, #470A73 100%) 0% 0% no-repeat padding-box;
+        padding-top: 10%;
+        padding-left: 5%;
+        text-align: left;
+        padding-bottom: 10%;
+    }
+    
+    
+    .begin{
+        color: white;
+        width: 90%;
+     } 
+    
+    .sect1{
+        padding-bottom: 20px;
+    }
+    
+    .sect2{
+        font-size: 12px;
+        font-weight:200;
+    }
+    
+    .sect3{
+        padding-bottom: 20px;
+    }
+    
+    .get{
+        width: 55%;
+        font-size: 10px;
+        height: 40px;
+        color: #7C1FBF;
+        border-radius: 5px;
+        border-style: none;
+    }
+
+
+    .take{
+        padding-bottom: 20px;
+    }
+
+    .give{
+        margin-bottom: 20px;
+        /* margin-left: 10px; */
+    }
+}
+
+
+
+    
+    
+
+
+@media (min-width:768px) {
+    .get{
+        width: 50%;
+    }
+
+    .give{
+        margin-left: 20px;
+    }
+}
+
+@media (min-width:1024px) {
+    .begin{
+        width: 50%;
+    }
+
+    .get{
+        width: 60%;
+    }
+
+    .take{
+        width: 25%;
+        margin-left: 10px;
+    }
+
+    .give{
+        width: 25%;
+        margin-right: 10px;
+    }
+}
+
+@media (min-width:1440px) {
+    .get{
+        width: 50%;
+    }
+
+    .give{
+        width: 20%;
+    }
+
+    .take{
+        width: 20%;
+    }
+}

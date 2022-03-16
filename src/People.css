@@ -1,0 +1,105 @@
+.bless{
+    background:#F2F2F2 0% 0% no-repeat padding-box;
+    padding-top: 40px;
+}
+
+.why{
+    font-weight: 600;
+}
+
+.sect{
+    width: 80%;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 8px;
+    height: 300px;
+}
+
+.one{
+    width: 80%;
+    padding: 20px;
+}
+
+
+.peep{
+    font-size: small;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.bttn{
+    margin-top: 20px;
+    border-radius: 5px;
+    border-width: 1px;
+    font-size: 10px;
+    height: 40px;
+    width: 160px;
+}
+
+
+
+@media (min-width:375px){
+.sect{
+    margin-left: 40px;
+    height: 330px;
+}
+}
+
+
+@media (min-width:425px) {
+.sect{
+    height: 350px;
+}
+}
+
+@media (min-width:768px) {
+    .why{
+        padding-bottom: 10px;
+    }
+
+    .sect{
+        width: 70%;
+        height: 450px;
+        margin-left: 15%;
+        padding: 10px;
+    }
+}
+
+@media (min-width:1024px) {
+    
+    .sect{
+        height: 660px;
+        width: 70%;
+    }
+
+    .one{
+        width: 10rem;
+    }
+
+    .peep{
+        font-size: 20px;
+    }
+
+    .bttn{
+        font-size: 13px;
+    }
+}
+
+
+@media (min-width:1440px) {
+.sect{
+    height: 770px;
+}
+
+
+.peep{
+    font-size: 25px;
+}
+
+.bttn{
+    font-size: 15px;
+    width: 20%;
+}
+}

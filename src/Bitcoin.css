@@ -1,0 +1,28 @@
+.all{
+    border-style:dashed;
+    border-width: 0.1px;
+    background-color: rgb(182, 158, 204);
+}
+
+
+@media (min-width:768px) {
+    .section{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    
+    .all{
+        width: 20%;
+    }
+
+
+    .phone{
+        display: block;
+    }
+}
+
+
+
+@media (min-width:1400px) {
+}

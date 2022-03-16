@@ -1,0 +1,92 @@
+.currencies{
+    background: #F2F2F2 0% 0% no-repeat padding-box;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.sector{
+    width: 80%;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 8px;
+    height: 300px;
+    margin-bottom: 40px;
+}
+
+.sell{
+    width: 90%;
+    margin-left: 10px;
+}
+
+@media (min-width:375px) {
+    .sector{
+        height: 320px;
+    }
+}
+
+@media (min-width: 425px) {
+    .sector{
+        height: 350px;
+    }
+}
+
+@media (min-width:768px) {
+    
+
+    .sector{
+        width: 90%;
+        border-style: none;
+        background:#F2F2F2 0% 0% no-repeat padding-box;
+        height: 190px;
+    }
+
+    .money{
+        display: flex;
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .money1{
+        width: 50%;
+        
+    }
+
+    .money2{
+        width: 50%;
+        padding-top: 40px;
+        text-align: left;
+    }
+    
+    .head{
+        font-weight: bold;
+    }
+}
+
+@media (min-width:1024px) {
+    .currencies{
+        height: 1000px
+    }
+
+    .them{
+        margin-top: 15%;
+    }
+
+
+    
+}
+
+@media (min-width:1440px) {
+    .currencies{
+        height: 1500px;
+    }
+
+    .them{
+        margin-top: 20%;
+    }
+
+    .direct{
+        margin-top: 15%;
+    }
+}

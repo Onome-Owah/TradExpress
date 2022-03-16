@@ -1,0 +1,58 @@
+@media (min-width:320px){
+    .bgc{
+        background: transparent linear-gradient(124deg, #7C1FBF 0%, #470A73 100%) 0% 0% no-repeat padding-box;
+    }
+    
+    .link{
+        margin-right: 50px;
+        justify-content: left;
+        
+    }
+    
+    .me-auto{
+    margin-left: 50%;
+    }
+    
+    .me{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    }
+    
+    .you{
+        list-style: none;
+        text-decoration: none;
+        color: white;
+        font-size: 13px;
+    }
+    
+    .gett{
+        font-size: 10px;
+        width: 120px;
+        height: 40px;
+        border-radius: 5px;
+        border-style: none;
+        color: #7C1FBF;
+    }
+    
+
+}
+
+@media (min-width:1024px) {
+  .me-auto{
+      margin-left: 45%;
+      margin-top: 10px;
+  }
+
+
+
+  .me{
+      font-size: 15px;
+  }
+
+  .you{
+      font-size: 15px;
+  }
+}
+

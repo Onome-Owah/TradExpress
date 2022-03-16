@@ -1,0 +1,71 @@
+.one{
+    width: 100%;
+}
+
+.two{
+    font-size: 12px;
+}
+
+.three{
+    padding-bottom: 20px;
+}
+
+.four{
+    width: 60%;
+    height: 50px;
+    border-radius: 5px;
+    background:#7C20BF 0% 0% no-repeat padding-box;
+    color: white;
+    font-size: 12px;
+    border-style: none;
+}
+
+.store{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.ios{
+    background-color:#7C20BF;
+    height: 50px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    
+}
+
+@media (min-width:768px) {
+    .height{
+        height: 350px;
+    }
+
+    .four{
+        width: 40%;
+        height: 40px;
+    }
+
+    .store{
+        display: block;
+    }
+
+    .ios{
+        width: 19%;
+        margin-right: 5px;
+        height: 45px;
+    }
+}
+
+@media (min-width:1024px) {
+    
+}
+
+
+@media (min-width:1440px) {
+    .four{
+        width: 20%;
+    }
+
+    .ios{
+        width: 9%;
+    }
+}

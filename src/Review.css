@@ -1,0 +1,185 @@
+@media (min-width:320px){
+
+.customer{
+    background:#F2F2F2 0% 0% no-repeat padding-box; 
+    padding-top: 20px;
+    height: 80%;
+}
+
+
+.review{
+    width: 15%;
+    border-radius: 50%;
+    position: relative;
+    bottom: 5.5rem;
+    right: 5rem;
+}
+
+.vue{
+    width: 80%;
+    position: relative;
+}
+
+.ptext{
+    width: 70%;
+    margin: auto;
+    padding: 0;
+    position: relative;
+    bottom: 8rem;
+    color: white;
+    font-size: 15px;
+}
+
+.cee{
+    position: relative;
+    bottom: 4rem;
+}
+}
+
+@media (min-width:375px){
+    .vue{
+        position: relative;
+    }
+    .cee{
+        position: relative;
+        bottom: 2.5rem;
+        right: 6rem;
+    }
+
+    .bee{
+        position: relative;
+        bottom: 4rem;
+        right: 6rem;
+    }
+}
+
+@media (min-width:425px){
+    .review{
+        position: relative;
+        bottom: 4rem;
+        right: 7rem;
+    }
+
+    .cee{
+        position: relative;
+        bottom: 2.5rem;
+    }
+}
+
+
+
+
+
+    
+
+@media (min-width:768px){
+    .review{
+        width: 12%;
+        position: relative;
+        border-radius: 50%;
+        bottom: 8rem;
+        right: 13rem;
+
+    }
+
+    .ptext{
+        width: 50%;
+        margin: auto;
+        padding: 0;
+        color: white;
+        position: relative;
+        bottom: 18rem;
+        font-size: 25px;
+    }
+
+    .cee{
+        position: relative;
+        bottom:4rem;
+    }
+
+    .bee{
+        position: relative;
+        bottom: 6rem;
+    }
+}
+
+@media (min-width:1024px){
+    .review{
+        width: 13%;
+        position: relative;
+        bottom: 5rem;
+        right: 6rem;
+        border-radius: 50%;
+    }
+
+    .ptext{
+        width: 60%;
+        margin: auto;
+        padding: 0;
+        position: relative;
+        bottom: 9rem;
+        color: white;
+        font-size: 15px;
+    }
+
+    .forflex{
+        display: flex;
+    }
+
+    .light{
+        padding-top: 3%;
+    }
+
+    .cee{
+        position: relative;
+        bottom:4rem;
+    }
+
+    .bee{
+        position: relative;
+        bottom: 5rem;
+    }
+
+    .vue{
+        width: 80%;
+    }
+}
+
+
+@media (min-width:1440px) {
+    .review{
+        width: 10%;
+        position: relative;
+        bottom: 4rem;
+        right: 8rem;
+        border-radius: 50%;
+    }
+
+    .ptext{
+        width: 60%;
+        margin: auto;
+        padding: 0;
+        position: relative;
+        bottom: 11rem;
+        color: white;
+    }
+
+    .forflex{
+        display: flex;
+    }
+
+    .light{
+        padding-top: 3%;
+    }
+
+    .cee{
+        position: relative;
+        bottom:2rem;
+    }
+
+    .bee{
+        position: relative;
+        bottom: 4rem;
+    }
+}
+

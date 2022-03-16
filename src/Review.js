@@ -2,9 +2,7 @@ import React from 'react'
 import view from '/Users/onomeowah/Desktop/TradExpress/src/Images/popup.png'
 import './Review.css'
 import me from '/Users/onomeowah/Desktop/TradExpress/src/Images/IMG_0055.jpeg'
-// import her from '/Users/onomeowah/Desktop/TradExpress/src/Images/Comfort.jpg'
-// import him from '/Users/onomeowah/Desktop/TradExpress/src/Images/Baby.jpeg'
-// import quote from '/Users/onomeowah/Desktop/TradExpress/src/Images/Group 8699.svg'
+
 
 
 const Review = () => {

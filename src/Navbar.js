@@ -18,9 +18,9 @@ const Navigate = () => {
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="me-auto">
-        <Link className='link me' to='/instant buy/sell'>Instant Buy/Sell</Link>
-        <Link className='link me' to='/Learn'>Learn</Link>
-        <Link className= 'link you' to= '/Login'>Login</Link>
+        <Link className='link me' to='/Form3'>Instant Buy/Sell</Link>
+        <Link className='link me' to='/Form5'>Learn</Link>
+        <Link className= 'link you' to= '/Form6'>Login</Link>
         <Link className='link us' to = '/Form1'><button className='gett'>Get started</button></Link>
         
       </Nav>

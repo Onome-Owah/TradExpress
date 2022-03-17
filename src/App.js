@@ -26,16 +26,16 @@ function App() {
           <Route path= '/Form2'>
             <Form2/>
           </Route>
-          <Route path= ''>
+          <Route path= '/Form3'>
             <Form3/>
           </Route>
-          <Route path=''>
+          <Route path='/Form4'>
             <Form4/>
           </Route>
-          <Route path=''>
-            <Form5/>
-          </Route>
-          <Route>
+         <Route path='/Form5'>
+           <Form5/>
+         </Route>
+          <Route path='/Form6'>
             <Form6/>
           </Route>
         </Switch>

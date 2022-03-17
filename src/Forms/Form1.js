@@ -10,8 +10,8 @@ const Form1 = () => {
 
                 <div>
                     <div className='but'>
-                        <Link to='./Form1'><button className='butt'>Individual</button></Link>
-                        <Link to='./Form2'><button className='butt'>Business</button></Link>
+                        <Link className='butt buttactive' to='./Form1'>Individual</Link>
+                        <Link className='butt' to='./Form2'>Business</Link>
                     </div>
                     
 
@@ -22,7 +22,7 @@ const Form1 = () => {
 
                     <input className='put' type="email" name='mail' placeholder='Email' />
 
-                    <input className='put' type="number"  name='number' placeholder='Phone Number'/>
+                    <input className='put' type="tel"  name='tel' placeholder='Phone Number'/>
 
                     <input className='put' type="text" name='code' placeholder='Referral code (Optional)' />
 
@@ -30,7 +30,7 @@ const Form1 = () => {
 
 
                     <div>
-                        <button className='sign'>Sign Up</button>
+                        <Link to= '/Form5'><button className='sign'>Sign Up</button></Link>
                     </div>
 
                         <p>Already have an account ?<a href="">Click here</a> </p>

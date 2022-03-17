@@ -26,14 +26,14 @@ const Form1 = () => {
 
                     <input className='put' type="text" name='code' placeholder='Referral code (Optional)' />
 
-                    <p>By clicking the Sign Up button below, you agree to TradExpress <a href="">terms and service</a></p>
+                    <p>By clicking the Sign Up button below, you agree to TradExpress <a className='feem' href="">terms and service</a></p>
 
 
                     <div>
-                        <Link to= '/Form5'><button className='sign'>Sign Up</button></Link>
+                        <Link className='feem' to= '/Form5'><button className='sign'>Sign Up</button></Link>
                     </div>
 
-                        <p>Already have an account ?<a href="">Click here</a> </p>
+                        <p>Already have an account ?<a className='feem' href="">Click here</a> </p>
                     </div>
 
                     

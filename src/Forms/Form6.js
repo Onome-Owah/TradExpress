@@ -16,19 +16,19 @@ const Form6 = () => {
       </section>
 
       <div className='check'>
-      <section>
-        <input  type="checkbox" />
-        <span>Remember Password</span>
+      <section className='boxes'>
+        <input type="checkbox" />
+        Remember Password
       </section>
 
-      <Link>Forgot Password</Link>
+      <Link className='forgot'>Forgot Password</Link>
       </div>
       </div>
 
 
       <Link><button className='log'>Log in</button></Link>
 
-      <p className='user'>New User? <Link>Click here</Link></p>
+      <p className='user'>New User? <Link className='feem'>Click here</Link></p>
     </div>
   )
 }

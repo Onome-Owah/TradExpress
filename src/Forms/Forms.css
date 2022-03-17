@@ -1,3 +1,1430 @@
+@media (min-width:320px) {
+    .welcome1{
+        width: 80%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 7%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        margin-bottom: 7%;
+        
+    }
+
+    .but{
+        font-size: 10px;
+        height: auto;
+        width: 70%;
+        display: flex;
+        margin: auto;
+        text-align: center;
+        background: #E4E4E4 0% 0% no-repeat padding-box;
+        border-radius: 20px;
+        margin-bottom: 5%;
+        
+    }
+    
+    .butt{
+        width: 100%;
+        padding: 1%;
+        text-decoration: none;
+        background: #E4E4E4 0% 0% no-repeat padding-box;
+        border-style: solid;
+        border-width: 0.5px;
+        border-color:  #E4E4E4;
+        border-radius: 20px;
+        justify-content: center;
+        color: black;
+        
+    }
+    
+    .buttactive{
+        background-color: white;
+        
+        
+    }
+    
+    .input{
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+        margin: auto;
+        padding: 0;
+        gap: 20px;
+        font-size: 10px;
+        padding-bottom: 5%;
+        border-style: none;
+        
+        
+        
+    }
+    
+    .put{
+        height: 40px;
+        border-radius: 5px;
+        border-style: none;
+        
+        
+    }
+    
+    .sign{
+        width: 100%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+    }
+
+
+    .instant{
+        width: 80%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+    }
+    
+    .coin{
+        width: 70%;
+        height: 40px;
+        border-radius: 5px;
+        
+    }
+    
+    .para{
+        width: 30%;
+    }
+    
+    .fall{
+        margin-bottom: 8%;
+        font-size: 15px;
+    }
+    
+    .ngn{
+        width: 16%;
+        height: 40px;
+    }
+    
+    .montext{
+        width: 55%;
+        height: 40px;
+    }
+    
+    .buy{
+        margin-right: 6.5rem;
+        font-weight: bold;
+    }
+    
+    .con{
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-bottom: 10%;
+        margin-top: 5%;
+    }
+    
+    
+    .buy-sell{
+    margin-bottom: 7%;
+    }    
+
+
+    .back{
+        width: 80%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        /* margin-bottom: 2%; */
+    }
+    
+    
+    .check{
+        display: flex;
+        font-size: 10px;
+        /* margin-left: 20%; */
+        /* margin: auto;
+        padding: 0; */
+        width: 70%;
+        
+    }
+    
+    .forgot{
+        position: relative;
+        left: 7rem;
+        text-decoration: none;
+        
+        
+    }
+    
+    .boxes{
+        width: 15%;
+        position: relative;
+        left: 2rem;
+        
+    }
+    
+    .log{
+        width: 70%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-top: 20%;
+    }
+    
+    .user{
+        padding-top: 5%;
+        padding-bottom: 25%;
+        font-size: 10px;
+    }
+    
+    .bad{
+        margin-top: 15%;
+        
+    }
+    
+    .piece{
+        margin-top: 5%;
+    }
+
+    .iretiayo{
+        width: 80%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        padding: 5%;
+        margin-bottom: 5%;
+    }
+    
+    .activate{
+        font-size: 13px;
+        margin-top: 5%;
+        margin-bottom: 8%;
+    }
+    
+    .kind{
+        font-size: 10px;
+        margin-top: 8%;
+        margin-bottom: 5%;
+    }
+    
+    .conty{
+        width: 80%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-top: 10%;
+    }
+    
+    .innerhem{
+        font-weight: lighter;
+    }
+    
+    
+    .earn{
+        padding: 5%;
+        margin: auto;
+    }
+    
+    .plat{
+        padding-bottom: 3% ;
+    }
+    
+    .feem{
+        text-decoration: none;
+    }
+}
+
+
+
+
+
+
+
+
+@media (min-width:375px) {
+    .welcome1{
+        width: 70%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+        
+    }
+
+    .but{
+        font-size: 10px;
+        height: auto;
+        width: 70%;
+        display: flex;
+        margin: auto;
+        text-align: center;
+        background: #E4E4E4 0% 0% no-repeat padding-box;
+        border-radius: 20px;
+        margin-bottom: 5%;
+        
+    }
+    
+    .butt{
+        width: 100%;
+        padding: 1%;
+        text-decoration: none;
+        background: #E4E4E4 0% 0% no-repeat padding-box;
+        border-style: solid;
+        border-width: 0.5px;
+        border-color:  #E4E4E4;
+        border-radius: 20px;
+        justify-content: center;
+        color: black;
+        
+    }
+    
+    .buttactive{
+        background-color: white;
+        
+        
+    }
+    
+    .input{
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+        margin: auto;
+        padding: 0;
+        gap: 20px;
+        font-size: 10px;
+        padding-bottom: 5%;
+        border-style: none;
+        
+        
+        
+    }
+    
+    .put{
+        height: 40px;
+        border-radius: 5px;
+        border-style: none;
+        
+        
+    }
+    
+    .sign{
+        width: 100%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+    }
+
+
+    .instant{
+        width: 70%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+    }
+    
+    .coin{
+        width: 70%;
+        height: 40px;
+        border-radius: 5px;
+        
+    }
+    
+    .para{
+        width: 30%;
+    }
+    
+    .fall{
+        margin-bottom: 8%;
+        font-size: 15px;
+    }
+    
+    .ngn{
+        width: 15%;
+        height: 40px;
+    }
+    
+    .montext{
+        width: 55%;
+        height: 40px;
+    }
+    
+    .buy{
+        margin-right: 7rem;
+        font-weight: bold;
+    }
+    
+    .con{
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-bottom: 10%;
+        margin-top: 5%;
+    }
+    
+    
+    .buy-sell{
+    margin-bottom: 7%;
+    }    
+
+
+    .back{
+        width: 70%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+    }
+    
+    
+    .check{
+        display: flex;
+        font-size: 10px;
+        /* margin-left: 20%; */
+        /* margin: auto;
+        padding: 0; */
+        width: 70%;
+        
+    }
+    
+    .forgot{
+        position: relative;
+        left: 7rem;
+        text-decoration: none;
+    }
+    
+    .boxes{
+        width: 15%;
+        position: relative;
+        left: 3rem;
+        
+    }
+    
+    .log{
+        width: 70%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-top: 20%;
+    }
+    
+    .user{
+        padding-top: 5%;
+        padding-bottom: 25%;
+        font-size: 10px;
+    }
+    
+    .bad{
+        margin-top: 15%;
+        
+    }
+    
+    .piece{
+        margin-top: 5%;
+    }
+
+    .iretiayo{
+        width: 70%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        padding: 5%;
+        margin-bottom: 5%;
+    }
+    
+    .activate{
+        font-size: 13px;
+        margin-top: 5%;
+        margin-bottom: 8%;
+    }
+    
+    .kind{
+        font-size: 10px;
+        margin-top: 8%;
+        margin-bottom: 5%;
+    }
+    
+    .conty{
+        width: 80%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-top: 10%;
+    }
+    
+    .innerhem{
+        font-weight: lighter;
+    }
+    
+    
+    .earn{
+        padding: 5%;
+        margin: auto;
+    }
+    
+    .plat{
+        padding-bottom: 3% ;
+    }
+    
+    .feem{
+        text-decoration: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:425px) {
+    .welcome1{
+        width: 70%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+        
+    }
+
+    .but{
+        font-size: 10px;
+        height: auto;
+        width: 70%;
+        display: flex;
+        margin: auto;
+        text-align: center;
+        background: #E4E4E4 0% 0% no-repeat padding-box;
+        border-radius: 20px;
+        margin-bottom: 5%;
+        
+    }
+    
+    .butt{
+        width: 100%;
+        padding: 1%;
+        text-decoration: none;
+        background: #E4E4E4 0% 0% no-repeat padding-box;
+        border-style: solid;
+        border-width: 0.5px;
+        border-color:  #E4E4E4;
+        border-radius: 20px;
+        justify-content: center;
+        color: black;
+        
+    }
+    
+    .buttactive{
+        background-color: white;
+        
+        
+    }
+    
+    .input{
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+        margin: auto;
+        padding: 0;
+        gap: 20px;
+        font-size: 10px;
+        padding-bottom: 5%;
+        border-style: none;
+        
+        
+        
+    }
+    
+    .put{
+        height: 40px;
+        border-radius: 5px;
+        border-style: none;
+        
+        
+    }
+    
+    .sign{
+        width: 100%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+    }
+
+
+    .instant{
+        width: 70%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+    }
+    
+    .coin{
+        width: 70%;
+        height: 40px;
+        border-radius: 5px;
+        
+    }
+    
+    .para{
+        width: 30%;
+    }
+    
+    .fall{
+        margin-bottom: 8%;
+        font-size: 15px;
+    }
+    
+    .ngn{
+        width: 15%;
+        height: 40px;
+    }
+    
+    .montext{
+        width: 55%;
+        height: 40px;
+    }
+    
+    .buy{
+        margin-right: 9rem;
+        font-weight: bold;
+    }
+    
+    .con{
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-bottom: 10%;
+        margin-top: 5%;
+    }
+    
+    
+    .buy-sell{
+    margin-bottom: 7%;
+    }    
+
+
+    .back{
+        width: 70%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+    }
+    
+    
+    .check{
+        display: flex;
+        font-size: 10px;
+        /* margin-left: 20%; */
+        /* margin: auto;
+        padding: 0; */
+        width: 70%;
+        
+    }
+    
+    .forgot{
+        position: relative;
+        left: 9rem;
+        text-decoration: none;
+    }
+    
+    .boxes{
+        width: 15%;
+        position: relative;
+        left: 3rem;
+        
+    }
+    
+    .log{
+        width: 70%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-top: 20%;
+    }
+    
+    .user{
+        padding-top: 5%;
+        padding-bottom: 25%;
+        font-size: 10px;
+    }
+    
+    .bad{
+        margin-top: 15%;
+        
+    }
+    
+    .piece{
+        margin-top: 5%;
+    }
+
+    .iretiayo{
+        width: 70%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        padding: 5%;
+        margin-bottom: 5%;
+    }
+    
+    .activate{
+        font-size: 13px;
+        margin-top: 5%;
+        margin-bottom: 8%;
+    }
+    
+    .kind{
+        font-size: 10px;
+        margin-top: 8%;
+        margin-bottom: 5%;
+    }
+    
+    .conty{
+        width: 80%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-top: 10%;
+    }
+    
+    .innerhem{
+        font-weight: lighter;
+    }
+    
+    
+    .earn{
+        padding: 5%;
+        margin: auto;
+    }
+    
+    .plat{
+        padding-bottom: 3% ;
+    }
+    
+    .feem{
+        text-decoration: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:768px) {
+    .welcome1{
+        width: 55%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+        
+    }
+
+    .but{
+        font-size: 10px;
+        height: auto;
+        width: 70%;
+        display: flex;
+        margin: auto;
+        text-align: center;
+        background: #E4E4E4 0% 0% no-repeat padding-box;
+        border-radius: 20px;
+        margin-bottom: 5%;
+        
+    }
+    
+    .butt{
+        width: 100%;
+        padding: 1%;
+        text-decoration: none;
+        background: #E4E4E4 0% 0% no-repeat padding-box;
+        border-style: solid;
+        border-width: 0.5px;
+        border-color:  #E4E4E4;
+        border-radius: 20px;
+        justify-content: center;
+        color: black;
+        
+    }
+    
+    .buttactive{
+        background-color: white;
+        
+        
+    }
+    
+    .input{
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+        margin: auto;
+        padding: 0;
+        gap: 20px;
+        font-size: 10px;
+        padding-bottom: 5%;
+        border-style: none;
+        
+        
+        
+    }
+    
+    .put{
+        height: 40px;
+        border-radius: 5px;
+        border-style: none;
+        
+        
+    }
+    
+    .sign{
+        width: 100%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+    }
+
+
+    .instant{
+        width: 55%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+    }
+    
+    .coin{
+        width: 70%;
+        height: 40px;
+        border-radius: 5px;
+        
+    }
+    
+    .para{
+        width: 30%;
+    }
+    
+    .fall{
+        margin-bottom: 8%;
+        font-size: 15px;
+    }
+    
+    .ngn{
+        width: 10%;
+        height: 40px;
+    }
+    
+    .montext{
+        width: 60%;
+        height: 40px;
+    }
+    
+    .buy{
+        margin-right: 14.5rem;
+        font-weight: bold;
+    }
+    
+    .con{
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-bottom: 10%;
+        margin-top: 5%;
+    }
+    
+    
+    .buy-sell{
+    margin-bottom: 7%;
+    }    
+
+
+    .back{
+        width: 55%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+    }
+    
+    
+    .check{
+        display: flex;
+        font-size: 10px;
+        /* margin-left: 20%; */
+        /* margin: auto;
+        padding: 0; */
+        width: 70%;
+        
+    }
+    
+    .forgot{
+        position: relative;
+        left: 4.5rem;
+        text-decoration: none;
+    }
+    
+    .boxes{
+        margin: auto;
+        
+    }
+    
+    .log{
+        width: 70%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-top: 20%;
+    }
+    
+    .user{
+        padding-top: 5%;
+        padding-bottom: 25%;
+        font-size: 10px;
+    }
+    
+    .bad{
+        margin-top: 15%;
+        
+    }
+    
+    .piece{
+        margin-top: 5%;
+    }
+
+    .iretiayo{
+        width: 55%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        padding: 5%;
+        margin-bottom: 5%;
+    }
+    
+    .activate{
+        font-size: 13px;
+        margin-top: 5%;
+        margin-bottom: 8%;
+    }
+    
+    .kind{
+        font-size: 10px;
+        margin-top: 8%;
+        margin-bottom: 5%;
+    }
+    
+    .conty{
+        width: 80%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-top: 10%;
+    }
+    
+    .innerhem{
+        font-weight: lighter;
+    }
+    
+    
+    .earn{
+        padding: 5%;
+        margin: auto;
+    }
+    
+    .plat{
+        padding-bottom: 3% ;
+    }
+    
+    .feem{
+        text-decoration: none;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width:1024px) {
+    .welcome1{
+        width: 45%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+    }
+
+    .but{
+        font-size: 10px;
+        height: auto;
+        width: 70%;
+        display: flex;
+        margin: auto;
+        text-align: center;
+        background: #E4E4E4 0% 0% no-repeat padding-box;
+        border-radius: 20px;
+        margin-bottom: 5%;
+        
+    }
+    
+    .butt{
+        width: 100%;
+        padding: 1%;
+        text-decoration: none;
+        background: #E4E4E4 0% 0% no-repeat padding-box;
+        border-style: solid;
+        border-width: 0.5px;
+        border-color:  #E4E4E4;
+        border-radius: 20px;
+        justify-content: center;
+        color: black;
+        
+    }
+    
+    .buttactive{
+        background-color: white;
+        
+        
+    }
+    
+    .input{
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+        margin: auto;
+        padding: 0;
+        gap: 20px;
+        font-size: 10px;
+        padding-bottom: 5%;
+        border-style: none;
+        
+        
+        
+    }
+    
+    .put{
+        height: 40px;
+        border-radius: 5px;
+        border-style: none;
+        
+        
+    }
+    
+    .sign{
+        width: 100%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+    }
+
+
+    .instant{
+        width: 45%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+    }
+    
+    .coin{
+        width: 70%;
+        height: 40px;
+        border-radius: 5px;
+        
+    }
+    
+    .para{
+        width: 30%;
+    }
+    
+    .fall{
+        margin-bottom: 8%;
+        font-size: 15px;
+    }
+    
+    .ngn{
+        width: 10%;
+        height: 40px;
+    }
+    
+    .montext{
+        width: 60%;
+        height: 40px;
+    }
+    
+    .buy{
+        margin-right: 14.5rem;
+        font-weight: bold;
+    }
+    
+    .con{
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-bottom: 10%;
+        margin-top: 5%;
+    }
+    
+    
+    .buy-sell{
+    margin-bottom: 7%;
+    }    
+
+
+    .back{
+        width: 45%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        margin-bottom: 5%;
+    }
+    
+    
+    .check{
+        display: flex;
+        font-size: 10px;
+        /* margin-left: 20%; */
+        /* margin: auto;
+        padding: 0; */
+        width: 70%;
+        
+    }
+    
+    .forgot{
+        position: relative;
+        left: 4.5rem;
+        text-decoration: none;
+    }
+    
+    .boxes{
+        margin: auto;
+        
+    }
+    
+    .log{
+        width: 70%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-top: 20%;
+    }
+    
+    .user{
+        padding-top: 5%;
+        padding-bottom: 25%;
+        font-size: 10px;
+    }
+    
+    .bad{
+        margin-top: 15%;
+        
+    }
+    
+    .piece{
+        margin-top: 5%;
+    }
+
+    .iretiayo{
+        width: 45%;
+        background: #FBF8FD 0% 0% no-repeat padding-box;
+        box-shadow: 0px 2px 3px #000000;
+        opacity: 1;
+        margin: auto;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 2rem;
+        border-radius: 5px;
+        padding: 5%;
+        margin-bottom: 5%;
+    }
+    
+    .activate{
+        font-size: 13px;
+        margin-top: 5%;
+        margin-bottom: 8%;
+    }
+    
+    .kind{
+        font-size: 10px;
+        margin-top: 8%;
+        margin-bottom: 5%;
+    }
+    
+    .conty{
+        width: 80%;
+        color: white;
+        background: #7C20BF 0% 0% no-repeat padding-box;
+        border-radius: 8px;
+        opacity: 1;
+        border-style: none;
+        height: 35px;
+        font-size: 15px;
+        margin-top: 10%;
+    }
+    
+    .innerhem{
+        font-weight: lighter;
+    }
+    
+    
+    .earn{
+        padding: 5%;
+        margin: auto;
+    }
+    
+    .plat{
+        padding-bottom: 3% ;
+    }
+    
+    .feem{
+        text-decoration: none;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:1440px) {
 .welcome1{
     width: 35%;
     background: #FBF8FD 0% 0% no-repeat padding-box;
@@ -8,6 +1435,7 @@
     margin-top: 5%;
     padding-top: 2rem;
     border-radius: 5px;
+    margin-bottom: 5%;
 }
 
 .but{
@@ -89,6 +1517,7 @@
     padding-top: 2rem;
     padding-bottom: 2rem;
     border-radius: 5px;
+    margin-bottom: 5%;
 }
 
 .coin{
@@ -151,14 +1580,26 @@ margin-bottom: 7%;
     margin-top: 5%;
     padding-top: 2rem;
     border-radius: 5px;
+    margin-bottom: 5%;
 }
 
 
 .check{
     display: flex;
-    margin: auto;
-    padding: 0;
     font-size: 10px;
+    width: 70%;
+    
+}
+
+.forgot{
+    position: relative;
+    left: 4.5rem;
+    text-decoration: none;
+}
+
+.boxes{
+    margin: auto;
+    
 }
 
 .log{
@@ -199,6 +1640,8 @@ margin-bottom: 7%;
     padding-top: 2rem;
     border-radius: 5px;
     padding: 5%;
+    margin-bottom: 5%;
+
 }
 
 .activate{
@@ -227,4 +1670,20 @@ margin-bottom: 7%;
 
 .innerhem{
     font-weight: lighter;
+}
+
+
+.earn{
+    padding: 5%;
+    margin: auto;
+}
+
+.plat{
+    padding-bottom: 3% ;
+}
+
+.feem{
+    text-decoration: none;
+}
+
 }

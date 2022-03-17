@@ -11,14 +11,14 @@ const Form5 = () => {
 
       <img src={letter} alt="" />
 
-      <p className='activate'>An activation link has been set to <Link>Ireti4tech@gmail.com</Link> Please click on the link to verify your email and activate your 
+      <p className='activate'>An activation link has been set to <Link className='feem'>Ireti4tech@gmail.com</Link> Please click on the link to verify your email and activate your 
       TradExpress account
       </p>
 
-      <Link><button className='conty'>Continue</button></Link>
+      <Link className='feem'><button className='conty'>Continue</button></Link>
 
 
-      <p className='kind'>Didn't get an email? Kindly click <Link>resend email</Link> Wrong email supplied? <Link>Edit email address</Link></p>
+      <p className='kind'>Didn't get an email? Kindly click <Link className='feem'>resend email</Link> Wrong email supplied? <Link className='feem'>Edit email address</Link></p>
     </div>
   )
 }

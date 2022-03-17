@@ -19,7 +19,7 @@ const Navigate = () => {
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="me-auto">
         <Link className='link me' to='/Form3'>Instant Buy/Sell</Link>
-        <Link className='link me' to='/Form5'>Learn</Link>
+        <Link className='link me' to='/Learn'>Learn</Link>
         <Link className= 'link you' to= '/Form6'>Login</Link>
         <Link className='link us' to = '/Form1'><button className='gett'>Get started</button></Link>
         

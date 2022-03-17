@@ -8,6 +8,7 @@ import Form3 from './Forms/Form3';
 import Form4 from './Forms/Form4';
 import Form5 from './Forms/Form5';
 import Form6 from './Forms/Form6';
+import Learn from './Forms/Learn';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
 
@@ -37,6 +38,9 @@ function App() {
          </Route>
           <Route path='/Form6'>
             <Form6/>
+          </Route>
+          <Route path='/Learn'>
+            <Learn/>
           </Route>
         </Switch>
       </Router>

@@ -8,12 +8,19 @@
     width: 80%;
     border-style: solid;
     border-width: 1px;
-    margin-left: 30px;
+    margin-left: 10%;
     background-color: white;
     border-radius: 8px;
     height: 300px;
     margin-bottom: 40px;
 }
+
+.pack{
+    padding-top: 5%;
+    
+}
+
+
 
 .sell{
     width: 90%;
@@ -44,8 +51,8 @@
 
     .money{
         display: flex;
-        width: 100%;
-        margin-left: 10px;
+        /* width: 100%; */
+        /* margin-left: 10px; */
     }
 
     .money1{
@@ -66,14 +73,17 @@
 
 @media (min-width:1024px) {
     .currencies{
-        height: 1000px
+        height: 1050px
     }
 
     .them{
         margin-top: 15%;
     }
 
-
+    .direct{
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
     
 }
 

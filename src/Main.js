@@ -9,6 +9,7 @@ import Crypto from './Crypto'
 import Ready from './Ready'
 import Review from './Review'
 import Footer from './Footer'
+import Backtotop from './Backtotop'
 
 const Main = () => {
   return (
@@ -16,7 +17,7 @@ const Main = () => {
     <div className='home'>
         <div className='begin'>
             <section className='sect1'>
-            <h1>Buy, sell and Manage your crypto on TradExpress</h1>
+            <h1>Buy, sell and manage your crypto on TradExpress</h1>
             </section>
 
             <section className='sect2'>
@@ -40,6 +41,7 @@ const Main = () => {
 <Ready/>
 <Review/>
 <Footer/>
+<Backtotop/>
     </div>
   )
 }

@@ -19,7 +19,7 @@
     
     .sect2{
         font-size: 12px;
-        font-weight:200;
+        font-weight:300;
     }
     
     .sect3{
@@ -33,6 +33,7 @@
         color: #7C1FBF;
         border-radius: 5px;
         border-style: none;
+        background-color: white;
     }
 
 

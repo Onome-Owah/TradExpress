@@ -32,7 +32,7 @@ const Crypto = () => {
         <section className='sector them'>
 
 
-       <div className='money'>
+       <div className='money pack'>
        
         <div className='money2'>
         <h5 className='head'>Deposit</h5>

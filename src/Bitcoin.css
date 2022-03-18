@@ -1,8 +1,10 @@
 .all{
     border-style:dashed;
     border-width: 0.1px;
-    background-color: rgb(182, 158, 204);
+    /* background-color: rgb(182, 158, 204); */
+    padding-top: 3%;
 }
+
 
 
 @media (min-width:768px) {
